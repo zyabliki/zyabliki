@@ -62,9 +62,33 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
+          <title>К памятнику Декабристам</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node3}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-95.63</pan>
+            <tilt>2.86</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <linktype>info</linktype>
+          <linksubtype>unknown</linksubtype>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -138,6 +162,7 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
+          <title>К памятнику Ленина</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
@@ -162,9 +187,33 @@
           <polygon/>
           <type>point</type>
           <id>Point02</id>
+          <title>К памятнику Ярополову</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node1}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-275.03</pan>
+            <tilt>-1.76</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point03</id>
+          <linktype>info</linktype>
+          <linksubtype>unknown</linksubtype>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -241,6 +290,7 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
+          <title>К памятнику Декабристам</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node3}</url>
@@ -265,9 +315,33 @@
           <polygon/>
           <type>point</type>
           <id>Point02</id>
+          <title>К памятнику Воину-Интернационалисту</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node6}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-0.91</pan>
+            <tilt>0.13</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point03</id>
+          <linktype>info</linktype>
+          <linksubtype>unknown</linksubtype>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -342,6 +416,7 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
+          <title>К памятнику Первостроителям</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node5}</url>
@@ -354,7 +429,7 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-165.15</pan>
+            <pan>-164.85</pan>
             <tilt>0.85</tilt>
             <fov>10</fov>
           </position>
@@ -366,9 +441,33 @@
           <polygon/>
           <type>point</type>
           <id>Point02</id>
+          <title>К памятнику Ярополова</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node1}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-74.36</pan>
+            <tilt>6.8</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point03</id>
+          <linktype>info</linktype>
+          <linksubtype>unknown</linksubtype>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -431,8 +530,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-316.35</pan>
-            <tilt>1.31</tilt>
+            <pan>-316.48</pan>
+            <tilt>1.17</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -443,9 +542,33 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
+          <title>К памятнику Воину-Интернационалисту</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node6}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-4.3</pan>
+            <tilt>-2.57</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <linktype>info</linktype>
+          <linksubtype>unknown</linksubtype>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -480,7 +603,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>index.html</filename>
+          <filename>index.htm</filename>
           <values>
             <value id="css"/>
             <value id="gginfo">false</value>
@@ -490,7 +613,13 @@
           </values>
         </html>
         <facequality/>
-        <transition/>
+        <transition>
+          <transitiontime>1.2</transitiontime>
+          <zoominenabled>6</zoominenabled>
+          <zoomoutenabled>3</zoomoutenabled>
+          <transitiontype>crossdissolve</transitiontype>
+          <softedge>5</softedge>
+        </transition>
         <autorotate/>
         <soundstransition/>
         <flyintransition/>
