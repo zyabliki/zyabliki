@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.2" rev="17873">
+<pano2vrconfig rev="17873" version="6.1.2">
   <tour>
     <panorama>
       <input>
@@ -49,8 +49,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-124.84</pan>
-            <tilt>2.09</tilt>
+            <pan>-124.9</pan>
+            <tilt>1.92</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -219,8 +219,9 @@
           <type>point</type>
           <id>Point03</id>
           <title>К памятнику-стеле "Ангарск - город, рождённый победой"</title>
-          <linktype>url</linktype>
+          <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>{node7}</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -621,8 +622,23 @@
         <webvr/>
         <tilesize>1664</tilesize>
         <filename>pano.xml</filename>
-        <skinfile/>
+        <skinfile>simplex_v6.ggsk</skinfile>
         <quality>100</quality>
+        <skinconfiguration>
+          <value id="opt_zoom">false</value>
+          <value id="vis_thumbnail_menu_show">true</value>
+        </skinconfiguration>
+        <skintablesconfiguration/>
+        <skincolorsconfiguration>
+          <value id="Button/Hotspot Foreground">4294967295</value>
+          <value id="Screen Tint">1677721600</value>
+          <value id="Scrollbar Background">1694498815</value>
+          <value id="Scrollbar Foreground">4294967295</value>
+          <value id="Thumbnail Active Border">4294967295</value>
+          <value id="Thumbnail Border">4291940817</value>
+          <value id="Tooltip Text Background">2181038080</value>
+          <value id="Tooltip Text Foreground">4294967295</value>
+        </skincolorsconfiguration>
       </htmlcss>
     </output>
     <streetview/>

@@ -1,136 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour appversion="6.1.2" start="node3" apprev="17873">
+<tour start="node3" apprev="17873" appversion="6.1.2">
   <panorama id="node3">
-    <input levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" height="1664" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1664" overlap="1">
-      <level predecode="0" preload="0" height="1664" width="1664"/>
-      <level predecode="0" preload="0" height="832" width="832"/>
-      <level predecode="1" preload="1" height="416" width="416"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="1664" levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" overlap="1" width="1664">
+      <level height="1664" preload="0" predecode="0" width="1664"/>
+      <level height="832" preload="0" predecode="0" width="832"/>
+      <level height="416" preload="1" predecode="1" width="416"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start fov="70.42" projection="4" tilt="0" pan="79.45"/>
-      <flyin fov="37.83" projection="4" tilt="-0.99" pan="81.94"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" pan="360" fovstereographic="270"/>
+      <start tilt="0" fov="70.42" projection="4" pan="79.45"/>
+      <flyin tilt="-0.99" fov="37.83" projection="4" pan="81.94"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovfisheye="360" fovstereographic="270" pan="360"/>
     </view>
-    <userdata copyright="" info="" source="" comment="" longitude="" description="" customnodeid="" latitude="" nodeid="node3" tags="Памятники" author="" title="" datetime=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" borderradius="1" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" textcolor="0x000000" enabled="1" height="20" borderalpha="1" width="180" border="1" wordwrap="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
-      <hotspot id="Point01" url="{node4}" description="" target="" skinid="ht_node" tilt="2.09" pan="-124.84" title="К памятнику Ленину"/>
-      <hotspot id="Point03" url="" description="Памятник посвящен революционерам, политкаторжанам, декабристам, прошедшим через Московский тракт. Установлен в декабре 1965 года на средства, собранные молодежью. Архитектор Анатолий Осауленко спроектировал памятник из фрагментов погостов, которыми была усыпана печально известная дорога. На фронтальной плите высечены слова, написанные ангарским поэтом И.Ф. Новокрещённых: «Этапы кандального тракта, по которым прошли в былом веке лучшие сыны России». Продолжают архитектурную композицию слова Некрасова: «Природа – мать. Когда б таких людей ты иногда не посылала миру, заглохла б нива жизни». Далее изображены фигуры каторжан, закованных в кандалы. Внизу подпись: «От комсомольцев и молодёжи Ангарска в 50 лет Советской власти».&#xa;Установлен в 1965 года.&#xa;Скульптор: А. Осауленко." target="" skinid="ht_info" tilt="-4.48" pan="-279.29" title="Памятник декабристам"/>
+    <userdata source="" info="" tags="Памятники" comment="" author="" copyright="" latitude="" description="" longitude="" title="" nodeid="node3" datetime="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" border="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderalpha="1" enabled="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="1.92" id="Point01" target="" skinid="ht_node" url="{node4}" description="" pan="-124.9" title="К памятнику Ленину"/>
+      <hotspot tilt="-4.48" id="Point03" target="" skinid="ht_info" url="" description="Памятник посвящен революционерам, политкаторжанам, декабристам, прошедшим через Московский тракт. Установлен в декабре 1965 года на средства, собранные молодежью. Архитектор Анатолий Осауленко спроектировал памятник из фрагментов погостов, которыми была усыпана печально известная дорога. На фронтальной плите высечены слова, написанные ангарским поэтом И.Ф. Новокрещённых: «Этапы кандального тракта, по которым прошли в былом веке лучшие сыны России». Продолжают архитектурную композицию слова Некрасова: «Природа – мать. Когда б таких людей ты иногда не посылала миру, заглохла б нива жизни». Далее изображены фигуры каторжан, закованных в кандалы. Внизу подпись: «От комсомольцев и молодёжи Ангарска в 50 лет Советской власти».&#xa;Установлен в 1965 года.&#xa;Скульптор: А. Осауленко." pan="-279.29" title="Памятник декабристам"/>
     </hotspots>
     <media/>
-    <transition softedge="5" zoomfov="20" zoomspeed="2" zoomoutpause="1" zoomin="6" enabled="1" blendtime="1.2" zoomout="3" type="crossdissolve" blendcolor="0x000000"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control dblclickfullscreen="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" invertwheel="0" sensitivity="8" lockedmouse="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" contextfullscreen="1" simulatemass="1" invertcontrol="1" hideabout="0"/>
+    <transition blendtime="1.2" zoomout="3" type="crossdissolve" blendcolor="0x000000" softedge="5" zoomspeed="2" enabled="1" zoomin="6" zoomfov="20" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" invertwheel="0" sensitivity="8"/>
   </panorama>
   <panorama id="node4">
-    <input levelbias="0.400" levelingroll="0.202683" levelingpitch="1.31861" leveltilesize="510" levelbiashidpi="1.000" height="1664" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1664" overlap="1">
-      <level predecode="0" preload="0" height="1664" width="1664"/>
-      <level predecode="0" preload="0" height="832" width="832"/>
-      <level predecode="1" preload="1" height="416" width="416"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="1664" levelingpitch="1.31861" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0.202683" leveltilesize="510" overlap="1" width="1664">
+      <level height="1664" preload="0" predecode="0" width="1664"/>
+      <level height="832" preload="0" predecode="0" width="832"/>
+      <level height="416" preload="1" predecode="1" width="416"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start fov="70.42" projection="4" tilt="0" pan="-94"/>
-      <flyin fov="33.98" projection="4" tilt="3.74" pan="-94.14"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" pan="360" fovstereographic="270"/>
+      <start tilt="0" fov="70.42" projection="4" pan="-94"/>
+      <flyin tilt="3.74" fov="33.98" projection="4" pan="-94.14"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovfisheye="360" fovstereographic="270" pan="360"/>
     </view>
-    <userdata copyright="" info="" source="" comment="" longitude="" description="" customnodeid="" latitude="" nodeid="node4" tags="Памятники" author="" title="" datetime=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" borderradius="1" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" textcolor="0x000000" enabled="1" height="20" borderalpha="1" width="180" border="1" wordwrap="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
-      <hotspot id="Point01" url="{node3}" description="" target="" skinid="ht_node" tilt="0.53" pan="-118.08" title="К памятнику Декабристам"/>
-      <hotspot id="Point02" url="" description="Памятник – монумент из бронзы на вид громоздкий, величественный посвящён историческому лицу нашего государства. Высота памятника 14 метров. Открытие памятника было приурочено к 91-й годовщине со дня рождения В.И. Ленина. Об этом свидетельствуют его масштаб, актуальность, политические события страны в ХХ веке.&#xa;Установлен 22 апреля 1961 года.&#xa;Скульпторы: В. И. Ингал, И. А. Сыроежкин и М. П. Щеглов." target="" skinid="ht_info" tilt="2.88" pan="-95.82" title="Памятник Ленину"/>
-      <hotspot id="Point03" url="" description="" target="_blank" skinid="ht_url" tilt="1.02" pan="-272.17" title="К памятнику-стеле &quot;Ангарск - город, рождённый победой&quot;"/>
+    <userdata source="" info="" tags="Памятники" comment="" author="" copyright="" latitude="" description="" longitude="" title="" nodeid="node4" datetime="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" border="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderalpha="1" enabled="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="0.53" id="Point01" target="" skinid="ht_node" url="{node3}" description="" pan="-118.08" title="К памятнику Декабристам"/>
+      <hotspot tilt="2.88" id="Point02" target="" skinid="ht_info" url="" description="Памятник – монумент из бронзы на вид громоздкий, величественный посвящён историческому лицу нашего государства. Высота памятника 14 метров. Открытие памятника было приурочено к 91-й годовщине со дня рождения В.И. Ленина. Об этом свидетельствуют его масштаб, актуальность, политические события страны в ХХ веке.&#xa;Установлен 22 апреля 1961 года.&#xa;Скульпторы: В. И. Ингал, И. А. Сыроежкин и М. П. Щеглов." pan="-95.82" title="Памятник Ленину"/>
+      <hotspot tilt="1.02" id="Point03" target="" skinid="ht_node" url="{node7}" description="" pan="-272.17" title="К памятнику-стеле &quot;Ангарск - город, рождённый победой&quot;"/>
     </hotspots>
     <media/>
-    <transition softedge="5" zoomfov="20" zoomspeed="2" zoomoutpause="1" zoomin="6" enabled="1" blendtime="1.2" zoomout="3" type="crossdissolve" blendcolor="0x000000"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control dblclickfullscreen="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" invertwheel="0" sensitivity="8" lockedmouse="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" contextfullscreen="1" simulatemass="1" invertcontrol="1" hideabout="0"/>
+    <transition blendtime="1.2" zoomout="3" type="crossdissolve" blendcolor="0x000000" softedge="5" zoomspeed="2" enabled="1" zoomin="6" zoomfov="20" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" invertwheel="0" sensitivity="8"/>
   </panorama>
   <panorama id="node7">
-    <input levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" height="3328" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3328" overlap="1">
-      <level predecode="0" preload="0" height="3328" width="3328"/>
-      <level predecode="0" preload="0" height="1664" width="1664"/>
-      <level predecode="0" preload="0" height="832" width="832"/>
-      <level predecode="1" preload="1" height="416" width="416"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="3328" levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" overlap="1" width="3328">
+      <level height="3328" preload="0" predecode="0" width="3328"/>
+      <level height="1664" preload="0" predecode="0" width="1664"/>
+      <level height="832" preload="0" predecode="0" width="832"/>
+      <level height="416" preload="1" predecode="1" width="416"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start fov="70" projection="4" tilt="0" pan="0"/>
-      <flyin fov="170" projection="9" tilt="-90" pan="0"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" pan="360" fovstereographic="270"/>
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovfisheye="360" fovstereographic="270" pan="360"/>
     </view>
-    <userdata copyright="" info="" source="" comment="" longitude="" description="" customnodeid="" latitude="" nodeid="node7" tags="Памятники" author="" title="" datetime=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" borderradius="1" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" textcolor="0x000000" enabled="1" height="20" borderalpha="1" width="180" border="1" wordwrap="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
-      <hotspot id="Point01" url="" description="На перекрёстке Московского тракта и улицы Ленина, по пути к железнодорожному вокзалу, появилась стела «Ангарск – город, рожденный Победой» - символ нашего города. 17-метровое сооружение хорошо просматривается при подъезде к городу со стороны железнодорожного вокзала и Московского тракта. Ближе к вершине стелы прикреплены щит и меч посередине его. На расстоянии 1,5 метров от земли стела опоясывается треугольной полосой, на всех сторонах которой начертаны слова: «Ангарск – город, рожденный Победой» - и расположен знак ордена Трудового Красного знамени.&#xa;Установлен в 1975 году.&#xa;Скульптор: архитектор Крымский." target="" skinid="ht_info" tilt="-10.03" pan="-87.95" title="Стела &quot;Ангарск - город, рождённый победой&quot;"/>
-      <hotspot id="Point02" url="{node4}" description="" target="" skinid="ht_node" tilt="0.48" pan="-243.51" title="К памятнику Ленину"/>
-      <hotspot id="Point03" url="{node6}" description="" target="" skinid="ht_node" tilt="0.16" pan="-191.81" title="К памятнику Воину-Интернационалисту"/>
+    <userdata source="" info="" tags="Памятники" comment="" author="" copyright="" latitude="" description="" longitude="" title="" nodeid="node7" datetime="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" border="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderalpha="1" enabled="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="-10.03" id="Point01" target="" skinid="ht_info" url="" description="На перекрёстке Московского тракта и улицы Ленина, по пути к железнодорожному вокзалу, появилась стела «Ангарск – город, рожденный Победой» - символ нашего города. 17-метровое сооружение хорошо просматривается при подъезде к городу со стороны железнодорожного вокзала и Московского тракта. Ближе к вершине стелы прикреплены щит и меч посередине его. На расстоянии 1,5 метров от земли стела опоясывается треугольной полосой, на всех сторонах которой начертаны слова: «Ангарск – город, рожденный Победой» - и расположен знак ордена Трудового Красного знамени.&#xa;Установлен в 1975 году.&#xa;Скульптор: архитектор Крымский." pan="-87.95" title="Стела &quot;Ангарск - город, рождённый победой&quot;"/>
+      <hotspot tilt="0.48" id="Point02" target="" skinid="ht_node" url="{node4}" description="" pan="-243.51" title="К памятнику Ленину"/>
+      <hotspot tilt="0.16" id="Point03" target="" skinid="ht_node" url="{node6}" description="" pan="-191.81" title="К памятнику Воину-Интернационалисту"/>
     </hotspots>
     <media/>
-    <transition softedge="5" zoomfov="20" zoomspeed="2" zoomoutpause="1" zoomin="6" enabled="1" blendtime="1.2" zoomout="3" type="crossdissolve" blendcolor="0x000000"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control dblclickfullscreen="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" invertwheel="0" sensitivity="8" lockedmouse="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" contextfullscreen="1" simulatemass="1" invertcontrol="1" hideabout="0"/>
+    <transition blendtime="1.2" zoomout="3" type="crossdissolve" blendcolor="0x000000" softedge="5" zoomspeed="2" enabled="1" zoomin="6" zoomfov="20" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" invertwheel="0" sensitivity="8"/>
   </panorama>
   <panorama id="node6">
-    <input levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" height="3328" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3328" overlap="1">
-      <level predecode="0" preload="0" height="3328" width="3328"/>
-      <level predecode="0" preload="0" height="1664" width="1664"/>
-      <level predecode="0" preload="0" height="832" width="832"/>
-      <level predecode="1" preload="1" height="416" width="416"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="3328" levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" overlap="1" width="3328">
+      <level height="3328" preload="0" predecode="0" width="3328"/>
+      <level height="1664" preload="0" predecode="0" width="1664"/>
+      <level height="832" preload="0" predecode="0" width="832"/>
+      <level height="416" preload="1" predecode="1" width="416"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start fov="70" projection="4" tilt="0" pan="0"/>
-      <flyin fov="27.66" projection="4" tilt="6.21" pan="-73.09"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" pan="360" fovstereographic="270"/>
+      <start tilt="0" fov="70" projection="4" pan="0"/>
+      <flyin tilt="6.21" fov="27.66" projection="4" pan="-73.09"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovfisheye="360" fovstereographic="270" pan="360"/>
     </view>
-    <userdata copyright="" info="" source="" comment="" longitude="" description="" customnodeid="" latitude="" nodeid="node6" tags="Памятники" author="" title="" datetime=""/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" borderradius="1" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" textcolor="0x000000" enabled="1" height="20" borderalpha="1" width="180" border="1" wordwrap="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
-      <hotspot id="Point01" url="{node5}" description="" target="" skinid="ht_node" tilt="0.52" pan="-204.29" title="К памятнику Первостроителям"/>
-      <hotspot id="Point03" url="" description="Памятник воину-интернационалисту или памятник бронзовому солдату — мемориал в городе Ангарск. Установлен в честь воинов, погибших в &quot;горячих точках&quot;. Находится по адресу: 95-й квартал, улица Горького. &#xa;На фоне мраморной плиты с фамилиями не вернувшихся воинов — двухметровая фигура солдата в современном обмундировании, весом 700 килограмм. Он держит в одной руке автомат, в другой краповый берет, что символизирует скорбь по погибшим товарищам. 2 декабря 2007 солдат занял своё постоянное место на площадке — вершине холма в 95-м квартале Ангарска. &#xa;На мемориальной доске 83 фамилии ангарских милиционеров и военнослужащих, погибших в Дагестане, Чечне и Афганистане.&#xa;Установлен 7 декабря 2007 года.&#xa;Скульптор: Р.С. Тропников." target="" skinid="ht_info" tilt="6.8" pan="-74.36" title="Памятник воину интернационалисту"/>
-      <hotspot id="Point02" url="{node7}" description="" target="" skinid="ht_node" tilt="1.05" pan="-179.91" title="К памятнику-стеле &quot;Ангарск - город, рождённый победой&quot;"/>
+    <userdata source="" info="" tags="Памятники" comment="" author="" copyright="" latitude="" description="" longitude="" title="" nodeid="node6" datetime="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" border="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderalpha="1" enabled="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="0.52" id="Point01" target="" skinid="ht_node" url="{node5}" description="" pan="-204.29" title="К памятнику Первостроителям"/>
+      <hotspot tilt="6.8" id="Point03" target="" skinid="ht_info" url="" description="Памятник воину-интернационалисту или памятник бронзовому солдату — мемориал в городе Ангарск. Установлен в честь воинов, погибших в &quot;горячих точках&quot;. Находится по адресу: 95-й квартал, улица Горького. &#xa;На фоне мраморной плиты с фамилиями не вернувшихся воинов — двухметровая фигура солдата в современном обмундировании, весом 700 килограмм. Он держит в одной руке автомат, в другой краповый берет, что символизирует скорбь по погибшим товарищам. 2 декабря 2007 солдат занял своё постоянное место на площадке — вершине холма в 95-м квартале Ангарска. &#xa;На мемориальной доске 83 фамилии ангарских милиционеров и военнослужащих, погибших в Дагестане, Чечне и Афганистане.&#xa;Установлен 7 декабря 2007 года.&#xa;Скульптор: Р.С. Тропников." pan="-74.36" title="Памятник воину интернационалисту"/>
+      <hotspot tilt="1.05" id="Point02" target="" skinid="ht_node" url="{node7}" description="" pan="-179.91" title="К памятнику-стеле &quot;Ангарск - город, рождённый победой&quot;"/>
     </hotspots>
     <media/>
-    <transition softedge="5" zoomfov="20" zoomspeed="2" zoomoutpause="1" zoomin="6" enabled="1" blendtime="1.2" zoomout="3" type="crossdissolve" blendcolor="0x000000"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control dblclickfullscreen="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" invertwheel="0" sensitivity="8" lockedmouse="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" contextfullscreen="1" simulatemass="1" invertcontrol="1" hideabout="0"/>
+    <transition blendtime="1.2" zoomout="3" type="crossdissolve" blendcolor="0x000000" softedge="5" zoomspeed="2" enabled="1" zoomin="6" zoomfov="20" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" invertwheel="0" sensitivity="8"/>
   </panorama>
   <panorama id="node5">
-    <input levelbias="0.400" levelingroll="0" levelingpitch="0" leveltilesize="510" levelbiashidpi="1.000" height="1520" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1520" overlap="1">
-      <level predecode="0" preload="0" height="1520" width="1520"/>
-      <level predecode="0" preload="0" height="760" width="760"/>
-      <level predecode="1" preload="1" height="380" width="380"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="1520" levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbias="0.400" levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" overlap="1" width="1520">
+      <level height="1520" preload="0" predecode="0" width="1520"/>
+      <level height="760" preload="0" predecode="0" width="760"/>
+      <level height="380" preload="1" predecode="1" width="380"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start fov="77.7" projection="4" tilt="15.56" pan="0.78"/>
-      <flyin fov="63.46" projection="4" tilt="18.54" pan="-1.93"/>
-      <min tilt="-90" pan="0" fovpixel="2"/>
-      <max fov="120" fovfisheye="360" scaletofit="1" tilt="90" pan="360" fovstereographic="270"/>
+      <start tilt="15.56" fov="77.7" projection="4" pan="0.78"/>
+      <flyin tilt="18.54" fov="63.46" projection="4" pan="-1.93"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max tilt="90" fov="120" scaletofit="1" fovfisheye="360" fovstereographic="270" pan="360"/>
     </view>
-    <userdata copyright="" info="" source="" comment="" longitude="" description="" customnodeid="" latitude="" nodeid="node5" tags="Памятники" author="" title="" datetime="14.11.2021 13:46"/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label bordercolor="0x000000" borderradius="1" background="1" backgroundcolor="0xffffff" backgroundalpha="1" textalpha="1" textcolor="0x000000" enabled="1" height="20" borderalpha="1" width="180" border="1" wordwrap="1"/>
-      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" borderalpha="1" mode="0"/>
-      <hotspot id="Point01" url="{node6}" description="" target="" skinid="ht_node" tilt="1.17" pan="-316.48" title="К памятнику Воину-Интернационалисту"/>
-      <hotspot id="Point02" url="" description="Этот новый монумент – дань памяти военному и трудовому подвигу бывших фронтовиков - тем, кто сразу после окончания войны поехал в Сибирь строить производственный комбинат и город (изначально – рабочий поселок Сталинск-Ангарский) в междуречье р. Ангары и р. Китоя. Когда в 1987 году при создании городского совета ветеранов был проведен первый учет участников войны, проживающих в Ангарске, их число составило более 6,5 тысяч человек. Сегодня же их осталось чуть больше сотни. Зато теперь в нашем городе есть место, где можно преклонить голову перед подвигом и славой воинов-победителей.&#xa;Установлен 27 мая 2017 года.&#xa;Скульптор: Евгений Ставский" target="" skinid="ht_info" tilt="-2.57" pan="-4.3" title="Памятник первостроителям Ангарска"/>
+    <userdata source="" info="" tags="Памятники" comment="" author="" copyright="" latitude="" description="" longitude="" title="" nodeid="node5" datetime="14.11.2021 13:46" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label height="20" border="1" bordercolor="0x000000" textalpha="1" backgroundalpha="1" wordwrap="1" textcolor="0x000000" borderalpha="1" enabled="1" borderradius="1" background="1" backgroundcolor="0xffffff" width="180"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" handcursor="1"/>
+      <hotspot tilt="1.17" id="Point01" target="" skinid="ht_node" url="{node6}" description="" pan="-316.48" title="К памятнику Воину-Интернационалисту"/>
+      <hotspot tilt="-2.57" id="Point02" target="" skinid="ht_info" url="" description="Этот новый монумент – дань памяти военному и трудовому подвигу бывших фронтовиков - тем, кто сразу после окончания войны поехал в Сибирь строить производственный комбинат и город (изначально – рабочий поселок Сталинск-Ангарский) в междуречье р. Ангары и р. Китоя. Когда в 1987 году при создании городского совета ветеранов был проведен первый учет участников войны, проживающих в Ангарске, их число составило более 6,5 тысяч человек. Сегодня же их осталось чуть больше сотни. Зато теперь в нашем городе есть место, где можно преклонить голову перед подвигом и славой воинов-победителей.&#xa;Установлен 27 мая 2017 года.&#xa;Скульптор: Евгений Ставский" pan="-4.3" title="Памятник первостроителям Ангарска"/>
     </hotspots>
     <media/>
-    <transition softedge="5" zoomfov="20" zoomspeed="2" zoomoutpause="1" zoomin="6" enabled="1" blendtime="1.2" zoomout="3" type="crossdissolve" blendcolor="0x000000"/>
-    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control dblclickfullscreen="0" lockedkeyboardzoom="0" speedwheel="1" contextprojections="0" invertwheel="0" sensitivity="8" lockedmouse="0" lockedwheel="0" rubberband="0" lockedkeyboard="0" contextfullscreen="1" simulatemass="1" invertcontrol="1" hideabout="0"/>
+    <transition blendtime="1.2" zoomout="3" type="crossdissolve" blendcolor="0x000000" softedge="5" zoomspeed="2" enabled="1" zoomin="6" zoomfov="20" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedmouse="0" speedwheel="1" rubberband="0" dblclickfullscreen="0" contextfullscreen="1" lockedwheel="0" contextprojections="0" lockedkeyboardzoom="0" hideabout="0" simulatemass="1" invertcontrol="1" lockedkeyboard="0" invertwheel="0" sensitivity="8"/>
   </panorama>
   <masternode>
-    <userdata copyright="" info="" source="" comment="" longitude="" description="" customnodeid="" latitude="" nodeid="master" tags="" author="" title="" datetime=""/>
+    <userdata source="" info="" tags="" comment="" author="" copyright="" latitude="" description="" longitude="" title="" nodeid="master" datetime="" customnodeid=""/>
   </masternode>
 </tour>
