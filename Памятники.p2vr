@@ -6,107 +6,6 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Памятники/Ленин.jpg</filename>
-        <videotype>equi</videotype>
-        <levelpitch>1.31861</levelpitch>
-        <levelroll>0.202683</levelroll>
-        <leveltimestamp>2021-11-15T23:46:33</leveltimestamp>
-      </input>
-      <viewingparameter>
-        <pan>
-          <start>-94</start>
-          <min>0</min>
-          <max>360</max>
-        </pan>
-        <tilt>
-          <start>0</start>
-          <min>-90</min>
-          <max>90</max>
-        </tilt>
-        <fov>
-          <start>70.42</start>
-          <minunit>pixels</minunit>
-          <minpixels>2</minpixels>
-          <max>120</max>
-          <maxfovstereographic>270</maxfovstereographic>
-          <maxfovfisheye>360</maxfovfisheye>
-        </fov>
-        <flyinstart>
-          <pan>-94.14</pan>
-          <tilt>3.74</tilt>
-          <fov>33.98</fov>
-        </flyinstart>
-        <pannorth>0</pannorth>
-        <scaletofit>1</scaletofit>
-        <projection>rectilinear</projection>
-        <flyinprojection>rectilinear</flyinprojection>
-        <defaultviewtimestamp>2021-11-15T23:46:44</defaultviewtimestamp>
-      </viewingparameter>
-      <userdata>
-        <capturedatetime>2021-11-15T18:08:40</capturedatetime>
-        <tags>Памятники</tags>
-      </userdata>
-      <floorplans/>
-      <hotspots>
-        <hotspot>
-          <position>
-            <pan>-120.24</pan>
-            <tilt>0.53</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point01</id>
-          <title>К памятнику Декабристам</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node3}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-95.63</pan>
-            <tilt>2.86</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point02</id>
-          <linktype>info</linktype>
-          <linksubtype>unknown</linksubtype>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-      </hotspots>
-      <output/>
-      <streetview/>
-      <streetviewproject/>
-      <sounds/>
-      <id>node4</id>
-    </panorama>
-    <panorama>
-      <input>
-        <patch/>
-        <type>auto</type>
         <filename>Памятники/Декабристам.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
@@ -162,7 +61,7 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
-          <title>К памятнику Ленина</title>
+          <title>К памятнику Ленину</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node4}</url>
@@ -175,33 +74,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-204.49</pan>
-            <tilt>0.79</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point02</id>
-          <title>К памятнику Ярополову</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node1}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-275.03</pan>
-            <tilt>-1.76</tilt>
+            <pan>-279.29</pan>
+            <tilt>-4.48</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -212,6 +86,10 @@
           <polygon/>
           <type>point</type>
           <id>Point03</id>
+          <title>Памятник декабристам</title>
+          <description>Памятник посвящен революционерам, политкаторжанам, декабристам, прошедшим через Московский тракт. Установлен в декабре 1965 года на средства, собранные молодежью. Архитектор Анатолий Осауленко спроектировал памятник из фрагментов погостов, которыми была усыпана печально известная дорога. На фронтальной плите высечены слова, написанные ангарским поэтом И.Ф. Новокрещённых: «Этапы кандального тракта, по которым прошли в былом веке лучшие сыны России». Продолжают архитектурную композицию слова Некрасова: «Природа – мать. Когда б таких людей ты иногда не посылала миру, заглохла б нива жизни». Далее изображены фигуры каторжан, закованных в кандалы. Внизу подпись: «От комсомольцев и молодёжи Ангарска в 50 лет Советской власти».
+Установлен в 1965 года.
+Скульптор: А. Осауленко.</description>
           <linktype>info</linktype>
           <linksubtype>unknown</linksubtype>
           <distance>0</distance>
@@ -229,19 +107,18 @@
       <id>node3</id>
     </panorama>
     <panorama>
-      <id>node1</id>
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Памятники/Памятник Ярополову.JPG</filename>
+        <filename>Памятники/Ленин.jpg</filename>
         <videotype>equi</videotype>
-        <levelpitch>0.197714</levelpitch>
-        <levelroll>-0.0467474</levelroll>
-        <leveltimestamp>2021-11-15T23:46:58</leveltimestamp>
+        <levelpitch>1.31861</levelpitch>
+        <levelroll>0.202683</levelroll>
+        <leveltimestamp>2021-11-15T23:46:33</leveltimestamp>
       </input>
       <viewingparameter>
         <pan>
-          <start>-0.98</start>
+          <start>-94</start>
           <min>0</min>
           <max>360</max>
         </pan>
@@ -259,27 +136,26 @@
           <maxfovfisheye>360</maxfovfisheye>
         </fov>
         <flyinstart>
-          <pan>-2.46</pan>
-          <tilt>7.46</tilt>
-          <fov>42.02</fov>
+          <pan>-94.14</pan>
+          <tilt>3.74</tilt>
+          <fov>33.98</fov>
         </flyinstart>
         <pannorth>0</pannorth>
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>rectilinear</flyinprojection>
-        <defaultviewtimestamp>2021-11-15T23:47:00</defaultviewtimestamp>
+        <defaultviewtimestamp>2021-11-15T23:46:44</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
-        <capturedatetime>2021-11-14T13:26:13</capturedatetime>
-        <datetime>14.11.2021 13:26</datetime>
+        <capturedatetime>2021-11-15T18:08:40</capturedatetime>
         <tags>Памятники</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-319.78</pan>
-            <tilt>2.1</tilt>
+            <pan>-118.08</pan>
+            <tilt>0.53</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -303,8 +179,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-288.03</pan>
-            <tilt>2.46</tilt>
+            <pan>-95.82</pan>
+            <tilt>2.88</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -315,10 +191,12 @@
           <polygon/>
           <type>point</type>
           <id>Point02</id>
-          <title>К памятнику Воину-Интернационалисту</title>
-          <linktype>node</linktype>
+          <title>Памятник Ленину</title>
+          <description>Памятник – монумент из бронзы на вид громоздкий, величественный посвящён историческому лицу нашего государства. Высота памятника 14 метров. Открытие памятника было приурочено к 91-й годовщине со дня рождения В.И. Ленина. Об этом свидетельствуют его масштаб, актуальность, политические события страны в ХХ веке.
+Установлен 22 апреля 1961 года.
+Скульпторы: В. И. Ингал, И. А. Сыроежкин и М. П. Щеглов.</description>
+          <linktype>info</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node6}</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -328,8 +206,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-0.91</pan>
-            <tilt>0.13</tilt>
+            <pan>-272.17</pan>
+            <tilt>1.02</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -340,7 +218,8 @@
           <polygon/>
           <type>point</type>
           <id>Point03</id>
-          <linktype>info</linktype>
+          <title>К памятнику-стеле "Ангарск - город, рождённый победой"</title>
+          <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -354,9 +233,113 @@
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <animation>
-        <sequence/>
-      </animation>
+      <id>node4</id>
+    </panorama>
+    <panorama>
+      <input>
+        <patch/>
+        <type>auto</type>
+        <filename>Памятники/stela.jpg</filename>
+        <videotype>equi</videotype>
+        <levelpitch>0</levelpitch>
+        <levelroll>0</levelroll>
+      </input>
+      <viewingparameter>
+        <pan/>
+        <tilt/>
+        <fov/>
+        <flyinstart/>
+        <pannorth>0</pannorth>
+      </viewingparameter>
+      <userdata>
+        <capturedatetime>2021-11-17T19:57:51</capturedatetime>
+        <tags>Памятники</tags>
+      </userdata>
+      <floorplans/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-87.95</pan>
+            <tilt>-10.03</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>Стела "Ангарск - город, рождённый победой"</title>
+          <description>На перекрёстке Московского тракта и улицы Ленина, по пути к железнодорожному вокзалу, появилась стела «Ангарск – город, рожденный Победой» - символ нашего города. 17-метровое сооружение хорошо просматривается при подъезде к городу со стороны железнодорожного вокзала и Московского тракта. Ближе к вершине стелы прикреплены щит и меч посередине его. На расстоянии 1,5 метров от земли стела опоясывается треугольной полосой, на всех сторонах которой начертаны слова: «Ангарск – город, рожденный Победой» - и расположен знак ордена Трудового Красного знамени.
+Установлен в 1975 году.
+Скульптор: архитектор Крымский.</description>
+          <linktype>info</linktype>
+          <linksubtype>unknown</linksubtype>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-243.51</pan>
+            <tilt>0.48</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <title>К памятнику Ленину</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node4}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-191.81</pan>
+            <tilt>0.16</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point03</id>
+          <title>К памятнику Воину-Интернационалисту</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node6}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+      </hotspots>
+      <output/>
+      <streetview/>
+      <streetviewproject/>
+      <sounds/>
+      <id>node7</id>
     </panorama>
     <panorama>
       <input>
@@ -429,31 +412,6 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-164.85</pan>
-            <tilt>0.85</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point02</id>
-          <title>К памятнику Ярополова</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node1}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
             <pan>-74.36</pan>
             <tilt>6.8</tilt>
             <fov>10</fov>
@@ -466,8 +424,39 @@
           <polygon/>
           <type>point</type>
           <id>Point03</id>
+          <title>Памятник воину интернационалисту</title>
+          <description>Памятник воину-интернационалисту или памятник бронзовому солдату — мемориал в городе Ангарск. Установлен в честь воинов, погибших в "горячих точках". Находится по адресу: 95-й квартал, улица Горького. 
+На фоне мраморной плиты с фамилиями не вернувшихся воинов — двухметровая фигура солдата в современном обмундировании, весом 700 килограмм. Он держит в одной руке автомат, в другой краповый берет, что символизирует скорбь по погибшим товарищам. 2 декабря 2007 солдат занял своё постоянное место на площадке — вершине холма в 95-м квартале Ангарска. 
+На мемориальной доске 83 фамилии ангарских милиционеров и военнослужащих, погибших в Дагестане, Чечне и Афганистане.
+Установлен 7 декабря 2007 года.
+Скульптор: Р.С. Тропников.</description>
           <linktype>info</linktype>
           <linksubtype>unknown</linksubtype>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-179.91</pan>
+            <tilt>1.05</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <title>К памятнику-стеле "Ангарск - город, рождённый победой"</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node7}</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -567,6 +556,10 @@
           <polygon/>
           <type>point</type>
           <id>Point02</id>
+          <title>Памятник первостроителям Ангарска</title>
+          <description>Этот новый монумент – дань памяти военному и трудовому подвигу бывших фронтовиков - тем, кто сразу после окончания войны поехал в Сибирь строить производственный комбинат и город (изначально – рабочий поселок Сталинск-Ангарский) в междуречье р. Ангары и р. Китоя. Когда в 1987 году при создании городского совета ветеранов был проведен первый учет участников войны, проживающих в Ангарске, их число составило более 6,5 тысяч человек. Сегодня же их осталось чуть больше сотни. Зато теперь в нашем городе есть место, где можно преклонить голову перед подвигом и славой воинов-победителей.
+Установлен 27 мая 2017 года.
+Скульптор: Евгений Ставский</description>
           <linktype>info</linktype>
           <linksubtype>unknown</linksubtype>
           <distance>0</distance>
