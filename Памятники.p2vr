@@ -6,19 +6,19 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Памятники/Декабристам.jpg</filename>
+        <filename>Памятники/stela.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
         <pan>
-          <start>79.45</start>
+          <start>-85.78</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>19.11</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
@@ -31,15 +31,120 @@
           <maxfovfisheye>360</maxfovfisheye>
         </fov>
         <flyinstart>
-          <pan>81.94</pan>
-          <tilt>-0.99</tilt>
-          <fov>37.83</fov>
+          <pan>-84.55</pan>
+          <tilt>18.23</tilt>
+          <fov>70.42</fov>
         </flyinstart>
         <pannorth>0</pannorth>
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>rectilinear</flyinprojection>
-        <defaultviewtimestamp>2021-11-15T23:47:25</defaultviewtimestamp>
+        <defaultviewtimestamp>2021-11-18T14:29:12</defaultviewtimestamp>
+      </viewingparameter>
+      <userdata>
+        <capturedatetime>2021-11-17T19:57:51</capturedatetime>
+        <tags>Памятники</tags>
+      </userdata>
+      <floorplans/>
+      <hotspots>
+        <hotspot>
+          <position>
+            <pan>-87.95</pan>
+            <tilt>-10.03</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>Стела "Ангарск - город, рождённый победой"</title>
+          <description>На перекрёстке Московского тракта и улицы Ленина, по пути к железнодорожному вокзалу, появилась стела «Ангарск – город, рожденный Победой» - символ нашего города. 17-метровое сооружение хорошо просматривается при подъезде к городу со стороны железнодорожного вокзала и Московского тракта. Ближе к вершине стелы прикреплены щит и меч посередине его. На расстоянии 1,5 метров от земли стела опоясывается треугольной полосой, на всех сторонах которой начертаны слова: «Ангарск – город, рожденный Победой» - и расположен знак ордена Трудового Красного знамени.
+Установлен в 1975 году.
+Скульптор: архитектор Крымский.</description>
+          <linktype>info</linktype>
+          <linksubtype>unknown</linksubtype>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>ht_info_image.png</customimage>
+          <use3d>0</use3d>
+          <width>32</width>
+          <height>32</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-243.5</pan>
+            <tilt>0.67</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <title>К памятнику Декабристам</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node3}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+      </hotspots>
+      <output/>
+      <streetview/>
+      <streetviewproject/>
+      <sounds/>
+      <id>node7</id>
+    </panorama>
+    <panorama>
+      <input>
+        <patch/>
+        <type>auto</type>
+        <filename>Памятники/Декабристам.jpg</filename>
+        <videotype>equi</videotype>
+        <levelpitch>0</levelpitch>
+        <levelroll>0</levelroll>
+      </input>
+      <viewingparameter>
+        <pan>
+          <start>82.13</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>-3.69</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
+        <fov>
+          <start>70.42</start>
+          <minunit>pixels</minunit>
+          <minpixels>2</minpixels>
+          <max>120</max>
+          <maxfovstereographic>270</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
+        </fov>
+        <flyinstart>
+          <pan>79.34</pan>
+          <tilt>-3.04</tilt>
+          <fov>70.42</fov>
+        </flyinstart>
+        <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>rectilinear</flyinprojection>
+        <defaultviewtimestamp>2021-11-18T14:29:23</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <capturedatetime>2021-11-15T18:08:36</capturedatetime>
@@ -49,8 +154,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-124.9</pan>
-            <tilt>1.92</tilt>
+            <pan>-202.68</pan>
+            <tilt>0.0100001</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -74,8 +179,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-279.29</pan>
-            <tilt>-4.48</tilt>
+            <pan>-278.49</pan>
+            <tilt>-4.61</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -92,6 +197,32 @@
 Скульптор: А. Осауленко.</description>
           <linktype>info</linktype>
           <linksubtype>unknown</linksubtype>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>ht_info_image.png</customimage>
+          <use3d>0</use3d>
+          <width>32</width>
+          <height>32</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-127.2</pan>
+            <tilt>0.01</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
+          <title>К памятнику "Ангарск - город, рожёднный победой"</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node7}</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -118,12 +249,12 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>-94</start>
+          <start>-95.66</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>3.12</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
@@ -136,15 +267,15 @@
           <maxfovfisheye>360</maxfovfisheye>
         </fov>
         <flyinstart>
-          <pan>-94.14</pan>
-          <tilt>3.74</tilt>
-          <fov>33.98</fov>
+          <pan>-96.3</pan>
+          <tilt>3.42</tilt>
+          <fov>70.42</fov>
         </flyinstart>
         <pannorth>0</pannorth>
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>rectilinear</flyinprojection>
-        <defaultviewtimestamp>2021-11-15T23:46:44</defaultviewtimestamp>
+        <defaultviewtimestamp>2021-11-18T14:29:33</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <capturedatetime>2021-11-15T18:08:40</capturedatetime>
@@ -179,8 +310,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-95.82</pan>
-            <tilt>2.88</tilt>
+            <pan>-96.43</pan>
+            <tilt>1.8</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -200,14 +331,15 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
+          <customimage>ht_info_image.png</customimage>
           <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
+          <width>32</width>
+          <height>32</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-272.17</pan>
-            <tilt>1.02</tilt>
+            <pan>-0.92</pan>
+            <tilt>1.28</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -218,10 +350,10 @@
           <polygon/>
           <type>point</type>
           <id>Point03</id>
-          <title>К памятнику-стеле "Ангарск - город, рождённый победой"</title>
+          <title>К памятнику Первостроителям</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node7}</url>
+          <url>{node5}</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -240,28 +372,52 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Памятники/stela.jpg</filename>
+        <filename>Памятники/Памятник Воинам победителям.JPG</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan/>
-        <tilt/>
-        <fov/>
-        <flyinstart/>
+        <pan>
+          <start>-0.36</start>
+          <min>0</min>
+          <max>360</max>
+        </pan>
+        <tilt>
+          <start>15.32</start>
+          <min>-90</min>
+          <max>90</max>
+        </tilt>
+        <fov>
+          <start>70.42</start>
+          <minunit>pixels</minunit>
+          <minpixels>2</minpixels>
+          <max>120</max>
+          <maxfovstereographic>270</maxfovstereographic>
+          <maxfovfisheye>360</maxfovfisheye>
+        </fov>
+        <flyinstart>
+          <pan>0.08</pan>
+          <tilt>16.26</tilt>
+          <fov>70.42</fov>
+        </flyinstart>
         <pannorth>0</pannorth>
+        <scaletofit>1</scaletofit>
+        <projection>rectilinear</projection>
+        <flyinprojection>rectilinear</flyinprojection>
+        <defaultviewtimestamp>2021-11-18T14:29:39</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
-        <capturedatetime>2021-11-17T19:57:51</capturedatetime>
+        <capturedatetime>2021-11-14T13:46:57</capturedatetime>
+        <datetime>14.11.2021 13:46</datetime>
         <tags>Памятники</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-87.95</pan>
-            <tilt>-10.03</tilt>
+            <pan>-318.46</pan>
+            <tilt>1.34</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -272,12 +428,10 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
-          <title>Стела "Ангарск - город, рождённый победой"</title>
-          <description>На перекрёстке Московского тракта и улицы Ленина, по пути к железнодорожному вокзалу, появилась стела «Ангарск – город, рожденный Победой» - символ нашего города. 17-метровое сооружение хорошо просматривается при подъезде к городу со стороны железнодорожного вокзала и Московского тракта. Ближе к вершине стелы прикреплены щит и меч посередине его. На расстоянии 1,5 метров от земли стела опоясывается треугольной полосой, на всех сторонах которой начертаны слова: «Ангарск – город, рожденный Победой» - и расположен знак ордена Трудового Красного знамени.
-Установлен в 1975 году.
-Скульптор: архитектор Крымский.</description>
-          <linktype>info</linktype>
+          <title>К памятнику Воину-Интернационалисту</title>
+          <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
+          <url>{node6}</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -287,8 +441,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-243.51</pan>
-            <tilt>0.48</tilt>
+            <pan>-4.3</pan>
+            <tilt>-2.57</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -299,21 +453,24 @@
           <polygon/>
           <type>point</type>
           <id>Point02</id>
-          <title>К памятнику Ленину</title>
-          <linktype>node</linktype>
+          <title>Памятник первостроителям Ангарска</title>
+          <description>Этот новый монумент – дань памяти военному и трудовому подвигу бывших фронтовиков - тем, кто сразу после окончания войны поехал в Сибирь строить производственный комбинат и город (изначально – рабочий поселок Сталинск-Ангарский) в междуречье р. Ангары и р. Китоя. Когда в 1987 году при создании городского совета ветеранов был проведен первый учет участников войны, проживающих в Ангарске, их число составило более 6,5 тысяч человек. Сегодня же их осталось чуть больше сотни. Зато теперь в нашем городе есть место, где можно преклонить голову перед подвигом и славой воинов-победителей.
+Установлен 27 мая 2017 года.
+Скульптор: Евгений Ставский</description>
+          <linktype>info</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node4}</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
+          <customimage>ht_info_image.png</customimage>
           <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
+          <width>32</width>
+          <height>32</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-191.81</pan>
-            <tilt>0.16</tilt>
+            <pan>-117.04</pan>
+            <tilt>1.56</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -324,10 +481,10 @@
           <polygon/>
           <type>point</type>
           <id>Point03</id>
-          <title>К памятнику Воину-Интернационалисту</title>
+          <title>К памятнику Ленину</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node6}</url>
+          <url>{node4}</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -340,7 +497,7 @@
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <id>node7</id>
+      <id>node5</id>
     </panorama>
     <panorama>
       <input>
@@ -353,17 +510,17 @@
       </input>
       <viewingparameter>
         <pan>
-          <start>0</start>
+          <start>-66.34</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>0</start>
+          <start>1.39</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>70</start>
+          <start>70.42</start>
           <minunit>pixels</minunit>
           <minpixels>2</minpixels>
           <max>120</max>
@@ -371,14 +528,15 @@
           <maxfovfisheye>360</maxfovfisheye>
         </fov>
         <flyinstart>
-          <pan>-73.09</pan>
-          <tilt>6.21</tilt>
-          <fov>27.66</fov>
+          <pan>-72.01</pan>
+          <tilt>6.82</tilt>
+          <fov>70.42</fov>
         </flyinstart>
         <pannorth>0</pannorth>
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
         <flyinprojection>rectilinear</flyinprojection>
+        <defaultviewtimestamp>2021-11-18T14:29:46</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
         <capturedatetime>2021-11-16T17:06:14</capturedatetime>
@@ -436,34 +594,10 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
+          <customimage>ht_info_image.png</customimage>
           <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-179.91</pan>
-            <tilt>1.05</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point02</id>
-          <title>К памятнику-стеле "Ангарск - город, рождённый победой"</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node7}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
+          <width>32</width>
+          <height>32</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -471,111 +605,6 @@
       <streetviewproject/>
       <sounds/>
       <id>node6</id>
-    </panorama>
-    <panorama>
-      <input>
-        <patch/>
-        <type>auto</type>
-        <filename>Памятники/Памятник Воинам победителям.JPG</filename>
-        <videotype>equi</videotype>
-        <levelpitch>0</levelpitch>
-        <levelroll>0</levelroll>
-      </input>
-      <viewingparameter>
-        <pan>
-          <start>0.78</start>
-          <min>0</min>
-          <max>360</max>
-        </pan>
-        <tilt>
-          <start>15.56</start>
-          <min>-90</min>
-          <max>90</max>
-        </tilt>
-        <fov>
-          <start>77.7</start>
-          <minunit>pixels</minunit>
-          <minpixels>2</minpixels>
-          <max>120</max>
-          <maxfovstereographic>270</maxfovstereographic>
-          <maxfovfisheye>360</maxfovfisheye>
-        </fov>
-        <flyinstart>
-          <pan>-1.93</pan>
-          <tilt>18.54</tilt>
-          <fov>63.46</fov>
-        </flyinstart>
-        <pannorth>0</pannorth>
-        <scaletofit>1</scaletofit>
-        <projection>rectilinear</projection>
-        <flyinprojection>rectilinear</flyinprojection>
-        <defaultviewtimestamp>2021-11-15T23:47:35</defaultviewtimestamp>
-      </viewingparameter>
-      <userdata>
-        <capturedatetime>2021-11-14T13:46:57</capturedatetime>
-        <datetime>14.11.2021 13:46</datetime>
-        <tags>Памятники</tags>
-      </userdata>
-      <floorplans/>
-      <hotspots>
-        <hotspot>
-          <position>
-            <pan>-316.48</pan>
-            <tilt>1.17</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point01</id>
-          <title>К памятнику Воину-Интернационалисту</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node6}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-4.3</pan>
-            <tilt>-2.57</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point02</id>
-          <title>Памятник первостроителям Ангарска</title>
-          <description>Этот новый монумент – дань памяти военному и трудовому подвигу бывших фронтовиков - тем, кто сразу после окончания войны поехал в Сибирь строить производственный комбинат и город (изначально – рабочий поселок Сталинск-Ангарский) в междуречье р. Ангары и р. Китоя. Когда в 1987 году при создании городского совета ветеранов был проведен первый учет участников войны, проживающих в Ангарске, их число составило более 6,5 тысяч человек. Сегодня же их осталось чуть больше сотни. Зато теперь в нашем городе есть место, где можно преклонить голову перед подвигом и славой воинов-победителей.
-Установлен 27 мая 2017 года.
-Скульптор: Евгений Ставский</description>
-          <linktype>info</linktype>
-          <linksubtype>unknown</linksubtype>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-      </hotspots>
-      <output/>
-      <streetview/>
-      <streetviewproject/>
-      <sounds/>
-      <id>node5</id>
     </panorama>
   </tour>
   <panorama>
@@ -622,21 +651,26 @@
         <webvr/>
         <tilesize>1664</tilesize>
         <filename>pano.xml</filename>
-        <skinfile>simplex_v6.ggsk</skinfile>
+        <skinfile>silhouette_v6.ggsk</skinfile>
         <quality>100</quality>
         <skinconfiguration>
+          <value id="opt_autorotate">false</value>
+          <value id="opt_gyro">false</value>
+          <value id="opt_loader">false</value>
+          <value id="opt_thumbnail">false</value>
+          <value id="opt_url">true</value>
           <value id="opt_zoom">false</value>
-          <value id="vis_thumbnail_menu_show">true</value>
         </skinconfiguration>
         <skintablesconfiguration/>
         <skincolorsconfiguration>
+          <value id="Button/Hotspot Background">4278194432</value>
           <value id="Button/Hotspot Foreground">4294967295</value>
           <value id="Screen Tint">1677721600</value>
           <value id="Scrollbar Background">1694498815</value>
           <value id="Scrollbar Foreground">4294967295</value>
           <value id="Thumbnail Active Border">4294967295</value>
           <value id="Thumbnail Border">4291940817</value>
-          <value id="Tooltip Text Background">2181038080</value>
+          <value id="Tooltip Text Background">4278196736</value>
           <value id="Tooltip Text Foreground">4294967295</value>
         </skincolorsconfiguration>
       </htmlcss>
