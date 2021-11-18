@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="17873" version="6.1.2">
+<pano2vrconfig version="6.1.2" rev="17873">
   <tour>
     <panorama>
       <input>
@@ -365,7 +365,39 @@
       <output/>
       <streetview/>
       <streetviewproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-29.67</pan>
+            <tilt>3.96</tilt>
+          </position>
+          <videorect>
+            <rotx>2</rotx>
+            <roty>36</roty>
+            <rotz>-1</rotz>
+            <fov>34.37</fov>
+            <stretch>100</stretch>
+            <dimx>1536</dimx>
+            <dimy>960</dimy>
+          </videorect>
+          <type>video</type>
+          <id>Element01</id>
+          <filename>lenin.mp4</filename>
+          <mode>3</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>1</startmutedmobile>
+          <level>1</level>
+          <loop>-1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>playstop</clickmode>
+          <handcursor>1</handcursor>
+        </sound>
+      </sounds>
       <id>node4</id>
     </panorama>
     <panorama>
