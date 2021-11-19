@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.2" rev="17873">
+<pano2vrconfig rev="17873" version="6.1.2">
   <tour>
     <panorama>
       <input>
@@ -104,7 +104,29 @@
       <output/>
       <streetview/>
       <streetviewproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-89.39</pan>
+            <tilt>3.69</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>Element01</id>
+          <filename>mother's voice.mp3</filename>
+          <mode>3</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>5</pansize>
+          <tiltsize>5</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+        </sound>
+      </sounds>
       <id>node7</id>
     </panorama>
     <panorama>
