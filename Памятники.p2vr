@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="17873" version="6.1.2">
+<pano2vrconfig version="6.1.2" rev="17873">
   <tour>
     <panorama>
       <input>
@@ -470,31 +470,6 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-318.46</pan>
-            <tilt>1.34</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point01</id>
-          <title>К памятнику Воину-Интернационалисту</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node6}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
             <pan>-4.3</pan>
             <tilt>-2.57</tilt>
             <fov>10</fov>
@@ -546,6 +521,31 @@
           <width>0</width>
           <height>0</height>
         </hotspot>
+        <hotspot>
+          <position>
+            <pan>-316.86</pan>
+            <tilt>1.46</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>К памятнику Воину-Интернационалисту</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node8}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
@@ -557,51 +557,29 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Памятники/Street View 360.jpg</filename>
+        <filename>Памятники/Интернационалист.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
-        <pan>
-          <start>-66.34</start>
-          <min>0</min>
-          <max>360</max>
-        </pan>
-        <tilt>
-          <start>1.39</start>
-          <min>-90</min>
-          <max>90</max>
-        </tilt>
-        <fov>
-          <start>70.42</start>
-          <minunit>pixels</minunit>
-          <minpixels>2</minpixels>
-          <max>120</max>
-          <maxfovstereographic>270</maxfovstereographic>
-          <maxfovfisheye>360</maxfovfisheye>
-        </fov>
-        <flyinstart>
-          <pan>-72.01</pan>
-          <tilt>6.82</tilt>
-          <fov>70.42</fov>
-        </flyinstart>
-        <pannorth>0</pannorth>
-        <scaletofit>1</scaletofit>
-        <projection>rectilinear</projection>
-        <flyinprojection>rectilinear</flyinprojection>
-        <defaultviewtimestamp>2021-11-18T14:29:46</defaultviewtimestamp>
+        <pan/>
+        <tilt/>
+        <fov/>
+        <flyinstart/>
+        <pannorth>344</pannorth>
       </viewingparameter>
       <userdata>
-        <capturedatetime>2021-11-16T17:06:14</capturedatetime>
+        <capturedatetime>2021-11-20T13:27:13</capturedatetime>
+        <datetime>20.11.2021 13:27</datetime>
         <tags>Памятники</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-204.29</pan>
-            <tilt>0.52</tilt>
+            <pan>-124.3</pan>
+            <tilt>0.14</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -625,8 +603,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-74.36</pan>
-            <tilt>6.8</tilt>
+            <pan>-360</pan>
+            <tilt>-11</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -636,8 +614,8 @@
           </next>
           <polygon/>
           <type>point</type>
-          <id>Point03</id>
-          <title>Памятник воину интернационалисту</title>
+          <id>Point02</id>
+          <title>Памятнику Воину-Интернационалисту</title>
           <description>Памятник воину-интернационалисту или памятник бронзовому солдату — мемориал в городе Ангарск. Установлен в честь воинов, погибших в "горячих точках". Находится по адресу: 95-й квартал, улица Горького. 
 На фоне мраморной плиты с фамилиями не вернувшихся воинов — двухметровая фигура солдата в современном обмундировании, весом 700 килограмм. Он держит в одной руке автомат, в другой краповый берет, что символизирует скорбь по погибшим товарищам. 2 декабря 2007 солдат занял своё постоянное место на площадке — вершине холма в 95-м квартале Ангарска. 
 На мемориальной доске 83 фамилии ангарских милиционеров и военнослужащих, погибших в Дагестане, Чечне и Афганистане.
@@ -658,7 +636,7 @@
       <streetview/>
       <streetviewproject/>
       <sounds/>
-      <id>node6</id>
+      <id>node8</id>
     </panorama>
   </tour>
   <panorama>
