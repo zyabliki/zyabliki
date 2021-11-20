@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.2" rev="17873">
+<pano2vrconfig rev="17873" version="6.1.2">
   <tour>
     <panorama>
       <input>
@@ -47,34 +47,6 @@
       </userdata>
       <floorplans/>
       <hotspots>
-        <hotspot>
-          <position>
-            <pan>-87.95</pan>
-            <tilt>-10.03</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point01</id>
-          <title>Стела "Ангарск - город, рождённый победой"</title>
-          <description>На перекрёстке Московского тракта и улицы Ленина, по пути к железнодорожному вокзалу, появилась стела «Ангарск – город, рожденный Победой» - символ нашего города. 17-метровое сооружение хорошо просматривается при подъезде к городу со стороны железнодорожного вокзала и Московского тракта. Ближе к вершине стелы прикреплены щит и меч посередине его. На расстоянии 1,5 метров от земли стела опоясывается треугольной полосой, на всех сторонах которой начертаны слова: «Ангарск – город, рожденный Победой» - и расположен знак ордена Трудового Красного знамени.
-Установлен в 1975 году.
-Скульптор: архитектор Крымский.</description>
-          <linktype>info</linktype>
-          <linksubtype>unknown</linksubtype>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>ht_info_image.png</customimage>
-          <use3d>0</use3d>
-          <width>32</width>
-          <height>32</height>
-        </hotspot>
         <hotspot>
           <position>
             <pan>-243.5</pan>
@@ -125,6 +97,37 @@
           <level>1</level>
           <loop>1</loop>
           <copyfile>1</copyfile>
+        </sound>
+        <sound>
+          <position>
+            <pan>-59.13</pan>
+            <tilt>1.01</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>23.27</fov>
+            <stretch>100</stretch>
+            <dimx>512</dimx>
+            <dimy>362</dimy>
+          </videorect>
+          <type>image</type>
+          <id>Element02</id>
+          <filename>infos/stela.png</filename>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>popout</clickmode>
+          <handcursor>0</handcursor>
         </sound>
       </sounds>
       <id>node7</id>
@@ -332,34 +335,6 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-96.43</pan>
-            <tilt>1.8</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point02</id>
-          <title>Памятник Ленину</title>
-          <description>Памятник – монумент из бронзы на вид громоздкий, величественный посвящён историческому лицу нашего государства. Высота памятника 14 метров. Открытие памятника было приурочено к 91-й годовщине со дня рождения В.И. Ленина. Об этом свидетельствуют его масштаб, актуальность, политические события страны в ХХ веке.
-Установлен 22 апреля 1961 года.
-Скульпторы: В. И. Ингал, И. А. Сыроежкин и М. П. Щеглов.</description>
-          <linktype>info</linktype>
-          <linksubtype>unknown</linksubtype>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>ht_info_image.png</customimage>
-          <use3d>0</use3d>
-          <width>32</width>
-          <height>32</height>
-        </hotspot>
-        <hotspot>
-          <position>
             <pan>-0.92</pan>
             <tilt>1.28</tilt>
             <fov>10</fov>
@@ -419,6 +394,37 @@
           <clickmode>playstop</clickmode>
           <handcursor>1</handcursor>
         </sound>
+        <sound>
+          <position>
+            <pan>-97.34</pan>
+            <tilt>-9.4</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>19.23</fov>
+            <stretch>100</stretch>
+            <dimx>1920</dimx>
+            <dimy>1080</dimy>
+          </videorect>
+          <type>image</type>
+          <id>Element02</id>
+          <filename>infos/lenin.png</filename>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>popout</clickmode>
+          <handcursor>0</handcursor>
+        </sound>
       </sounds>
       <id>node4</id>
     </panorama>
@@ -468,34 +474,6 @@
       </userdata>
       <floorplans/>
       <hotspots>
-        <hotspot>
-          <position>
-            <pan>-4.3</pan>
-            <tilt>-2.57</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point02</id>
-          <title>Памятник первостроителям Ангарска</title>
-          <description>Этот новый монумент – дань памяти военному и трудовому подвигу бывших фронтовиков - тем, кто сразу после окончания войны поехал в Сибирь строить производственный комбинат и город (изначально – рабочий поселок Сталинск-Ангарский) в междуречье р. Ангары и р. Китоя. Когда в 1987 году при создании городского совета ветеранов был проведен первый учет участников войны, проживающих в Ангарске, их число составило более 6,5 тысяч человек. Сегодня же их осталось чуть больше сотни. Зато теперь в нашем городе есть место, где можно преклонить голову перед подвигом и славой воинов-победителей.
-Установлен 27 мая 2017 года.
-Скульптор: Евгений Ставский</description>
-          <linktype>info</linktype>
-          <linksubtype>unknown</linksubtype>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>ht_info_image.png</customimage>
-          <use3d>0</use3d>
-          <width>32</width>
-          <height>32</height>
-        </hotspot>
         <hotspot>
           <position>
             <pan>-117.04</pan>
@@ -550,7 +528,39 @@
       <output/>
       <streetview/>
       <streetviewproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-67.81</pan>
+            <tilt>6.09</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>30</fov>
+            <stretch>100</stretch>
+            <dimx>1920</dimx>
+            <dimy>1080</dimy>
+          </videorect>
+          <type>image</type>
+          <id>Element01</id>
+          <filename>infos/pervsotroi.png</filename>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>popout</clickmode>
+          <handcursor>0</handcursor>
+        </sound>
+      </sounds>
       <id>node5</id>
     </panorama>
     <panorama>
@@ -601,41 +611,43 @@
           <width>0</width>
           <height>0</height>
         </hotspot>
-        <hotspot>
-          <position>
-            <pan>-360</pan>
-            <tilt>-11</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point02</id>
-          <title>Памятнику Воину-Интернационалисту</title>
-          <description>Памятник воину-интернационалисту или памятник бронзовому солдату — мемориал в городе Ангарск. Установлен в честь воинов, погибших в "горячих точках". Находится по адресу: 95-й квартал, улица Горького. 
-На фоне мраморной плиты с фамилиями не вернувшихся воинов — двухметровая фигура солдата в современном обмундировании, весом 700 килограмм. Он держит в одной руке автомат, в другой краповый берет, что символизирует скорбь по погибшим товарищам. 2 декабря 2007 солдат занял своё постоянное место на площадке — вершине холма в 95-м квартале Ангарска. 
-На мемориальной доске 83 фамилии ангарских милиционеров и военнослужащих, погибших в Дагестане, Чечне и Афганистане.
-Установлен 7 декабря 2007 года.
-Скульптор: Р.С. Тропников.</description>
-          <linktype>info</linktype>
-          <linksubtype>unknown</linksubtype>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>ht_info_image.png</customimage>
-          <use3d>0</use3d>
-          <width>32</width>
-          <height>32</height>
-        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
-      <sounds/>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-323.79</pan>
+            <tilt>2.06</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>30</fov>
+            <stretch>100</stretch>
+            <dimx>1920</dimx>
+            <dimy>1080</dimy>
+          </videorect>
+          <type>image</type>
+          <id>Element01</id>
+          <filename>infos/internac.png</filename>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>popout</clickmode>
+          <handcursor>0</handcursor>
+        </sound>
+      </sounds>
       <id>node8</id>
     </panorama>
   </tour>
