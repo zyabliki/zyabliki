@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="17873" version="6.1.2">
+<pano2vrconfig version="6.1.2" rev="17873">
   <tour>
     <panorama>
       <input>
@@ -49,8 +49,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-243.5</pan>
-            <tilt>0.67</tilt>
+            <pan>-243.89</pan>
+            <tilt>1.59</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -60,11 +60,11 @@
           </next>
           <polygon/>
           <type>point</type>
-          <id>Point02</id>
+          <id>Point01</id>
           <title>К памятнику Декабристам</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
-          <url>{node3}</url>
+          <url>{node9}</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -136,24 +136,24 @@
       <input>
         <patch/>
         <type>auto</type>
-        <filename>Памятники/Декабристам.jpg</filename>
+        <filename>Памятники/decembrists.jpg</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
       </input>
       <viewingparameter>
         <pan>
-          <start>82.13</start>
+          <start>-12.54</start>
           <min>0</min>
           <max>360</max>
         </pan>
         <tilt>
-          <start>-3.69</start>
+          <start>5.1</start>
           <min>-90</min>
           <max>90</max>
         </tilt>
         <fov>
-          <start>70.42</start>
+          <start>64.77</start>
           <minunit>pixels</minunit>
           <minpixels>2</minpixels>
           <max>120</max>
@@ -161,26 +161,27 @@
           <maxfovfisheye>360</maxfovfisheye>
         </fov>
         <flyinstart>
-          <pan>79.34</pan>
-          <tilt>-3.04</tilt>
-          <fov>70.42</fov>
+          <pan>0</pan>
+          <tilt>-90</tilt>
+          <fov>170</fov>
         </flyinstart>
-        <pannorth>0</pannorth>
+        <pannorth>197</pannorth>
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
-        <flyinprojection>rectilinear</flyinprojection>
-        <defaultviewtimestamp>2021-11-18T14:29:23</defaultviewtimestamp>
+        <flyinprojection>stereo</flyinprojection>
+        <defaultviewtimestamp>2021-11-21T15:15:06</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
-        <capturedatetime>2021-11-15T18:08:36</capturedatetime>
+        <capturedatetime>2021-11-21T15:03:50</capturedatetime>
+        <datetime>2021:11:21 13:19:21</datetime>
         <tags>Памятники</tags>
       </userdata>
       <floorplans/>
       <hotspots>
         <hotspot>
           <position>
-            <pan>-202.68</pan>
-            <tilt>0.0100001</tilt>
+            <pan>-229.85</pan>
+            <tilt>3.97</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -191,6 +192,31 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
+          <title>К стеле "Ангарск - город, рождённый победой"</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node7}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <use3d>0</use3d>
+          <width>0</width>
+          <height>0</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-299.6</pan>
+            <tilt>1.92</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point02</id>
           <title>К памятнику Ленину</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
@@ -202,65 +228,44 @@
           <width>0</width>
           <height>0</height>
         </hotspot>
-        <hotspot>
-          <position>
-            <pan>-278.49</pan>
-            <tilt>-4.61</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point03</id>
-          <title>Памятник декабристам</title>
-          <description>Памятник посвящен революционерам, политкаторжанам, декабристам, прошедшим через Московский тракт. Установлен в декабре 1965 года на средства, собранные молодежью. Архитектор Анатолий Осауленко спроектировал памятник из фрагментов погостов, которыми была усыпана печально известная дорога. На фронтальной плите высечены слова, написанные ангарским поэтом И.Ф. Новокрещённых: «Этапы кандального тракта, по которым прошли в былом веке лучшие сыны России». Продолжают архитектурную композицию слова Некрасова: «Природа – мать. Когда б таких людей ты иногда не посылала миру, заглохла б нива жизни». Далее изображены фигуры каторжан, закованных в кандалы. Внизу подпись: «От комсомольцев и молодёжи Ангарска в 50 лет Советской власти».
-Установлен в 1965 года.
-Скульптор: А. Осауленко.</description>
-          <linktype>info</linktype>
-          <linksubtype>unknown</linksubtype>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <customimage>ht_info_image.png</customimage>
-          <use3d>0</use3d>
-          <width>32</width>
-          <height>32</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-127.2</pan>
-            <tilt>0.01</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point02</id>
-          <title>К памятнику "Ангарск - город, рожёднный победой"</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node7}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
       </hotspots>
       <output/>
       <streetview/>
       <streetviewproject/>
-      <sounds/>
-      <id>node3</id>
+      <sounds>
+        <sound>
+          <position>
+            <pan>-58.91</pan>
+            <tilt>1.95</tilt>
+          </position>
+          <videorect>
+            <rotx>0</rotx>
+            <roty>0</roty>
+            <rotz>0</rotz>
+            <fov>30</fov>
+            <stretch>100</stretch>
+            <dimx>1920</dimx>
+            <dimy>1080</dimy>
+          </videorect>
+          <type>image</type>
+          <id>Element01</id>
+          <filename>infos/decembrists.png</filename>
+          <mode>0</mode>
+          <nodechangekeep>0</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>1</level>
+          <loop>1</loop>
+          <copyfile>1</copyfile>
+          <clickmode>popout</clickmode>
+          <handcursor>0</handcursor>
+        </sound>
+      </sounds>
+      <id>node9</id>
     </panorama>
     <panorama>
       <input>
@@ -308,31 +313,6 @@
       </userdata>
       <floorplans/>
       <hotspots>
-        <hotspot>
-          <position>
-            <pan>-118.08</pan>
-            <tilt>0.53</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point01</id>
-          <title>К памятнику Декабристам</title>
-          <linktype>node</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>{node3}</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
         <hotspot>
           <position>
             <pan>-0.92</pan>

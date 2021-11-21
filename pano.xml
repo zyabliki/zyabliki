@@ -1,154 +1,157 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node7" appversion="6.1.2" apprev="17873">
+<tour start="node7" apprev="17873" appversion="6.1.2">
   <panorama id="node7">
-    <input leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" height="3328" levelbiashidpi="1.000" width="3328" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level predecode="0" height="3328" width="3328" preload="0"/>
-      <level predecode="0" height="1664" width="1664" preload="0"/>
-      <level predecode="0" height="832" width="832" preload="0"/>
-      <level predecode="1" height="416" width="416" preload="1"/>
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" leveltilesize="510" width="3328" height="3328" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level width="3328" height="3328" preload="0" predecode="0"/>
+      <level width="1664" height="1664" preload="0" predecode="0"/>
+      <level width="832" height="832" preload="0" predecode="0"/>
+      <level width="416" height="416" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start tilt="19.11" fov="70.42" projection="4" pan="-85.78"/>
-      <flyin tilt="18.23" fov="70.42" projection="4" pan="-84.55"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max tilt="90" fov="120" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="270"/>
+      <start pan="-85.78" tilt="19.11" fov="70.42" projection="4"/>
+      <flyin pan="-84.55" tilt="18.23" fov="70.42" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360"/>
     </view>
-    <userdata author="" comment="" title="" latitude="" customnodeid="" info="" description="" nodeid="node7" source="" longitude="" datetime="" tags="Памятники" copyright=""/>
-    <hotspots wordwrap="1" height="20" width="180">
-      <label backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" enabled="1" height="20" background="1" borderradius="1" textalpha="1" border="1" width="180" borderalpha="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
-      <hotspot tilt="0.67" target="" skinid="ht_node" title="К памятнику Декабристам" url="{node3}" pan="-243.5" description="" id="Point02"/>
+    <userdata comment="" description="" source="" title="" customnodeid="" copyright="" info="" datetime="" tags="Памятники" longitude="" author="" latitude="" nodeid="node7"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" bordercolor="0x000000" border="1" enabled="1" width="180" background="1" backgroundcolor="0xffffff" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" backgroundalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-243.89" description="" tilt="1.59" target="" skinid="ht_node" title="К памятнику Декабристам" url="{node9}" id="Point01"/>
     </hotspots>
     <media>
-      <sound level="1.000" tilt="11.610" mode="2" loop="1" pansize="15.000" tiltsize="15.000" startmutedmobile="0" pan="-60.690" nodechangekeep="0" field="90.000" ambientlevel="0.000" id="Element01">
+      <sound field="90.000" pan="-60.690" tilt="11.610" nodechangekeep="0" pansize="15.000" level="1.000" id="Element01" mode="2" loop="1" tiltsize="15.000" ambientlevel="0.000" startmutedmobile="0">
         <source url="media/mother's voice.mp3"/>
       </sound>
-      <image tilt="1.960" fov="23.270" roty="0.000" handcursor="0" rotz="0.000" height="362" pan="-58.540" clickmode="1" width="512" stretch="1.000" id="Element02" rotx="0.000">
+      <image rotx="0.000" pan="-58.540" stretch="1.000" tilt="1.960" roty="0.000" width="512" clickmode="1" fov="23.270" height="362" rotz="0.000" id="Element02" handcursor="0">
         <source url="media/stela.png"/>
       </image>
     </media>
-    <transition zoomout="3" blendtime="1.2" softedge="5" zoomfov="20" zoomin="6" zoomspeed="2" enabled="1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control rubberband="0" lockedwheel="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" simulatemass="1" hideabout="0" contextfullscreen="1" lockedkeyboard="0" invertwheel="0"/>
+    <transition blendtime="1.2" zoomoutpause="1" zoomin="6" softedge="5" enabled="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" zoomout="3" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedwheel="0" contextprojections="0" invertwheel="0" speedwheel="1" invertcontrol="1" hideabout="0"/>
   </panorama>
-  <panorama id="node3">
-    <input leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" height="1664" levelbiashidpi="1.000" width="1664" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level predecode="0" height="1664" width="1664" preload="0"/>
-      <level predecode="0" height="832" width="832" preload="0"/>
-      <level predecode="1" height="416" width="416" preload="1"/>
+  <panorama id="node9">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" leveltilesize="510" width="2560" height="2560" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level width="2560" height="2560" preload="0" predecode="0"/>
+      <level width="1280" height="1280" preload="0" predecode="0"/>
+      <level width="640" height="640" preload="0" predecode="0"/>
+      <level width="320" height="320" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
-    <view pannorth="0" fovmode="0">
-      <start tilt="-3.69" fov="70.42" projection="4" pan="82.13"/>
-      <flyin tilt="-3.04" fov="70.42" projection="4" pan="79.34"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max tilt="90" fov="120" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="270"/>
+    <view pannorth="197" fovmode="0">
+      <start pan="-12.54" tilt="5.1" fov="64.77" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360"/>
     </view>
-    <userdata author="" comment="" title="" latitude="" customnodeid="" info="" description="" nodeid="node3" source="" longitude="" datetime="" tags="Памятники" copyright=""/>
-    <hotspots wordwrap="1" height="20" width="180">
-      <label backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" enabled="1" height="20" background="1" borderradius="1" textalpha="1" border="1" width="180" borderalpha="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
-      <hotspot tilt="0.0100001" target="" skinid="ht_node" title="К памятнику Ленину" url="{node4}" pan="-202.68" description="" id="Point01"/>
-      <hotspot tilt="-4.61" target="" fov="10" skinid="ht_info" customimagewidth="32" title="Памятник декабристам" url="" customimage="media/ht_info_image.png" pan="-278.49" distance3D="182.881" description="Памятник посвящен революционерам, политкаторжанам, декабристам, прошедшим через Московский тракт. Установлен в декабре 1965 года на средства, собранные молодежью. Архитектор Анатолий Осауленко спроектировал памятник из фрагментов погостов, которыми была усыпана печально известная дорога. На фронтальной плите высечены слова, написанные ангарским поэтом И.Ф. Новокрещённых: «Этапы кандального тракта, по которым прошли в былом веке лучшие сыны России». Продолжают архитектурную композицию слова Некрасова: «Природа – мать. Когда б таких людей ты иногда не посылала миру, заглохла б нива жизни». Далее изображены фигуры каторжан, закованных в кандалы. Внизу подпись: «От комсомольцев и молодёжи Ангарска в 50 лет Советской власти».&#xa;Установлен в 1965 года.&#xa;Скульптор: А. Осауленко." use3D="0" id="Point03" customimageheight="32"/>
-      <hotspot tilt="0.01" target="" skinid="ht_node" title="К памятнику &quot;Ангарск - город, рожёднный победой&quot;" url="{node7}" pan="-127.2" description="" id="Point02"/>
-    </hotspots>
-    <media/>
-    <transition zoomout="3" blendtime="1.2" softedge="5" zoomfov="20" zoomin="6" zoomspeed="2" enabled="1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control rubberband="0" lockedwheel="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" simulatemass="1" hideabout="0" contextfullscreen="1" lockedkeyboard="0" invertwheel="0"/>
-  </panorama>
-  <panorama id="node4">
-    <input leveltilesize="510" levelingpitch="1.31861" overlap="1" levelingroll="0.202683" height="1664" levelbiashidpi="1.000" width="1664" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level predecode="0" height="1664" width="1664" preload="0"/>
-      <level predecode="0" height="832" width="832" preload="0"/>
-      <level predecode="1" height="416" width="416" preload="1"/>
-      <preview color="0x808080" strip="1"/>
-    </input>
-    <view pannorth="0" fovmode="0">
-      <start tilt="3.12" fov="70.42" projection="4" pan="-95.66"/>
-      <flyin tilt="3.42" fov="70.42" projection="4" pan="-96.3"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max tilt="90" fov="120" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="270"/>
-    </view>
-    <userdata author="" comment="" title="" latitude="" customnodeid="" info="" description="" nodeid="node4" source="" longitude="" datetime="" tags="Памятники" copyright=""/>
-    <hotspots wordwrap="1" height="20" width="180">
-      <label backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" enabled="1" height="20" background="1" borderradius="1" textalpha="1" border="1" width="180" borderalpha="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
-      <hotspot tilt="0.53" target="" skinid="ht_node" title="К памятнику Декабристам" url="{node3}" pan="-118.08" description="" id="Point01"/>
-      <hotspot tilt="1.28" target="" skinid="ht_node" title="К памятнику Первостроителям" url="{node5}" pan="-0.92" description="" id="Point03"/>
+    <userdata comment="" description="" source="" title="" customnodeid="" copyright="" info="" datetime="2021:11:21 13:19:21" tags="Памятники" longitude="" author="" latitude="" nodeid="node9"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" bordercolor="0x000000" border="1" enabled="1" width="180" background="1" backgroundcolor="0xffffff" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" backgroundalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-229.85" description="" tilt="3.97" target="" skinid="ht_node" title="К стеле &quot;Ангарск - город, рождённый победой&quot;" url="{node7}" id="Point01"/>
+      <hotspot pan="-299.6" description="" tilt="1.92" target="" skinid="ht_node" title="К памятнику Ленину" url="{node4}" id="Point02"/>
     </hotspots>
     <media>
-      <video width="1536" tilt="3.960" roty="36.000" tiltsize="10.000" field="90.000" startmutedmobile="1" ambientlevel="0.000" rotx="2.000" fov="34.370" id="Element01" clickmode="2" loop="-1" stretch="1.000" level="1.000" pansize="10.000" pan="-29.670" handcursor="1" mode="3" height="960" nodechangekeep="0" rotz="-1.000">
+      <image rotx="0.000" pan="-58.910" stretch="1.000" tilt="1.950" roty="0.000" width="1920" clickmode="1" fov="30.000" height="1080" rotz="0.000" id="Element01" handcursor="0">
+        <source url="media/decembrists.png"/>
+      </image>
+    </media>
+    <transition blendtime="1.2" zoomoutpause="1" zoomin="6" softedge="5" enabled="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" zoomout="3" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedwheel="0" contextprojections="0" invertwheel="0" speedwheel="1" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0.202683" leveltilesize="510" width="1664" height="1664" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="1.31861">
+      <level width="1664" height="1664" preload="0" predecode="0"/>
+      <level width="832" height="832" preload="0" predecode="0"/>
+      <level width="416" height="416" preload="1" predecode="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start pan="-95.66" tilt="3.12" fov="70.42" projection="4"/>
+      <flyin pan="-96.3" tilt="3.42" fov="70.42" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360"/>
+    </view>
+    <userdata comment="" description="" source="" title="" customnodeid="" copyright="" info="" datetime="" tags="Памятники" longitude="" author="" latitude="" nodeid="node4"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" bordercolor="0x000000" border="1" enabled="1" width="180" background="1" backgroundcolor="0xffffff" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" backgroundalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-0.92" description="" tilt="1.28" target="" skinid="ht_node" title="К памятнику Первостроителям" url="{node5}" id="Point03"/>
+    </hotspots>
+    <media>
+      <video field="90.000" tiltsize="10.000" rotx="2.000" level="1.000" height="960" nodechangekeep="0" width="1536" id="Element01" loop="-1" stretch="1.000" roty="36.000" startmutedmobile="1" clickmode="2" pansize="10.000" ambientlevel="0.000" tilt="3.960" pan="-29.670" fov="34.370" rotz="-1.000" mode="3" handcursor="1">
         <source url="media/lenin.mp4"/>
       </video>
-      <image tilt="-9.400" fov="19.230" roty="0.000" handcursor="0" rotz="0.000" height="1080" pan="-97.340" clickmode="1" width="1920" stretch="1.000" id="Element02" rotx="0.000">
+      <image rotx="0.000" pan="-97.340" stretch="1.000" tilt="-9.400" roty="0.000" width="1920" clickmode="1" fov="19.230" height="1080" rotz="0.000" id="Element02" handcursor="0">
         <source url="media/lenin.png"/>
       </image>
     </media>
-    <transition zoomout="3" blendtime="1.2" softedge="5" zoomfov="20" zoomin="6" zoomspeed="2" enabled="1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control rubberband="0" lockedwheel="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" simulatemass="1" hideabout="0" contextfullscreen="1" lockedkeyboard="0" invertwheel="0"/>
+    <transition blendtime="1.2" zoomoutpause="1" zoomin="6" softedge="5" enabled="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" zoomout="3" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedwheel="0" contextprojections="0" invertwheel="0" speedwheel="1" invertcontrol="1" hideabout="0"/>
   </panorama>
   <panorama id="node5">
-    <input leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" height="1520" levelbiashidpi="1.000" width="1520" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level predecode="0" height="1520" width="1520" preload="0"/>
-      <level predecode="0" height="760" width="760" preload="0"/>
-      <level predecode="1" height="380" width="380" preload="1"/>
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" leveltilesize="510" width="1520" height="1520" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level width="1520" height="1520" preload="0" predecode="0"/>
+      <level width="760" height="760" preload="0" predecode="0"/>
+      <level width="380" height="380" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="0" fovmode="0">
-      <start tilt="15.32" fov="70.42" projection="4" pan="-0.36"/>
-      <flyin tilt="16.26" fov="70.42" projection="4" pan="0.08"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max tilt="90" fov="120" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="270"/>
+      <start pan="-0.36" tilt="15.32" fov="70.42" projection="4"/>
+      <flyin pan="0.08" tilt="16.26" fov="70.42" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360"/>
     </view>
-    <userdata author="" comment="" title="" latitude="" customnodeid="" info="" description="" nodeid="node5" source="" longitude="" datetime="14.11.2021 13:46" tags="Памятники" copyright=""/>
-    <hotspots wordwrap="1" height="20" width="180">
-      <label backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" enabled="1" height="20" background="1" borderradius="1" textalpha="1" border="1" width="180" borderalpha="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
-      <hotspot tilt="1.56" target="" skinid="ht_node" title="К памятнику Ленину" url="{node4}" pan="-117.04" description="" id="Point03"/>
-      <hotspot tilt="1.46" target="" skinid="ht_node" title="К памятнику Воину-Интернационалисту" url="{node8}" pan="-316.86" description="" id="Point01"/>
+    <userdata comment="" description="" source="" title="" customnodeid="" copyright="" info="" datetime="14.11.2021 13:46" tags="Памятники" longitude="" author="" latitude="" nodeid="node5"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" bordercolor="0x000000" border="1" enabled="1" width="180" background="1" backgroundcolor="0xffffff" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" backgroundalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-117.04" description="" tilt="1.56" target="" skinid="ht_node" title="К памятнику Ленину" url="{node4}" id="Point03"/>
+      <hotspot pan="-316.86" description="" tilt="1.46" target="" skinid="ht_node" title="К памятнику Воину-Интернационалисту" url="{node8}" id="Point01"/>
     </hotspots>
     <media>
-      <image tilt="6.090" fov="30.000" roty="0.000" handcursor="0" rotz="0.000" height="1080" pan="-67.810" clickmode="1" width="1920" stretch="1.000" id="Element01" rotx="0.000">
+      <image rotx="0.000" pan="-67.810" stretch="1.000" tilt="6.090" roty="0.000" width="1920" clickmode="1" fov="30.000" height="1080" rotz="0.000" id="Element01" handcursor="0">
         <source url="media/pervsotroi.png"/>
       </image>
     </media>
-    <transition zoomout="3" blendtime="1.2" softedge="5" zoomfov="20" zoomin="6" zoomspeed="2" enabled="1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control rubberband="0" lockedwheel="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" simulatemass="1" hideabout="0" contextfullscreen="1" lockedkeyboard="0" invertwheel="0"/>
+    <transition blendtime="1.2" zoomoutpause="1" zoomin="6" softedge="5" enabled="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" zoomout="3" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedwheel="0" contextprojections="0" invertwheel="0" speedwheel="1" invertcontrol="1" hideabout="0"/>
   </panorama>
   <panorama id="node8">
-    <input leveltilesize="510" levelingpitch="0" overlap="1" levelingroll="0" height="2560" levelbiashidpi="1.000" width="2560" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
-      <level predecode="0" height="2560" width="2560" preload="0"/>
-      <level predecode="0" height="1280" width="1280" preload="0"/>
-      <level predecode="0" height="640" width="640" preload="0"/>
-      <level predecode="1" height="320" width="320" preload="1"/>
+    <input levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" leveltilesize="510" width="2560" height="2560" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level width="2560" height="2560" preload="0" predecode="0"/>
+      <level width="1280" height="1280" preload="0" predecode="0"/>
+      <level width="640" height="640" preload="0" predecode="0"/>
+      <level width="320" height="320" preload="1" predecode="1"/>
       <preview color="0x808080" strip="1"/>
     </input>
     <view pannorth="344" fovmode="0">
-      <start tilt="0" fov="70" projection="4" pan="0"/>
-      <flyin tilt="-90" fov="170" projection="9" pan="0"/>
-      <min tilt="-90" fovpixel="2" pan="0"/>
-      <max tilt="90" fov="120" pan="360" fovfisheye="360" scaletofit="1" fovstereographic="270"/>
+      <start pan="0" tilt="0" fov="70" projection="4"/>
+      <flyin pan="0" tilt="-90" fov="170" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" tilt="90" fov="120" fovstereographic="270" scaletofit="1" fovfisheye="360"/>
     </view>
-    <userdata author="" comment="" title="" latitude="" customnodeid="" info="" description="" nodeid="node8" source="" longitude="" datetime="20.11.2021 13:27" tags="Памятники" copyright=""/>
-    <hotspots wordwrap="1" height="20" width="180">
-      <label backgroundcolor="0xffffff" backgroundalpha="1" wordwrap="1" textcolor="0x000000" bordercolor="0x000000" enabled="1" height="20" background="1" borderradius="1" textalpha="1" border="1" width="180" borderalpha="1"/>
-      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" handcursor="1" borderalpha="1"/>
-      <hotspot tilt="0.14" target="" skinid="ht_node" title="К памятнику Первостроителям" url="{node5}" pan="-124.3" description="" id="Point01"/>
+    <userdata comment="" description="" source="" title="" customnodeid="" copyright="" info="" datetime="20.11.2021 13:27" tags="Памятники" longitude="" author="" latitude="" nodeid="node8"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderalpha="1" bordercolor="0x000000" border="1" enabled="1" width="180" background="1" backgroundcolor="0xffffff" textalpha="1" height="20" wordwrap="1" textcolor="0x000000" backgroundalpha="1" borderradius="1"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" handcursor="1" backgroundalpha="0.25098"/>
+      <hotspot pan="-124.3" description="" tilt="0.14" target="" skinid="ht_node" title="К памятнику Первостроителям" url="{node5}" id="Point01"/>
     </hotspots>
     <media>
-      <image tilt="2.060" fov="30.000" roty="0.000" handcursor="0" rotz="0.000" height="1080" pan="-323.790" clickmode="1" width="1920" stretch="1.000" id="Element01" rotx="0.000">
+      <image rotx="0.000" pan="-323.790" stretch="1.000" tilt="2.060" roty="0.000" width="1920" clickmode="1" fov="30.000" height="1080" rotz="0.000" id="Element01" handcursor="0">
         <source url="media/internac.png"/>
       </image>
     </media>
-    <transition zoomout="3" blendtime="1.2" softedge="5" zoomfov="20" zoomin="6" zoomspeed="2" enabled="1" type="crossdissolve" zoomoutpause="1" blendcolor="0x000000"/>
-    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
-    <control rubberband="0" lockedwheel="0" speedwheel="1" contextprojections="0" lockedkeyboardzoom="0" dblclickfullscreen="0" invertcontrol="1" sensitivity="8" lockedmouse="0" simulatemass="1" hideabout="0" contextfullscreen="1" lockedkeyboard="0" invertwheel="0"/>
+    <transition blendtime="1.2" zoomoutpause="1" zoomin="6" softedge="5" enabled="1" zoomfov="20" blendcolor="0x000000" type="crossdissolve" zoomout="3" zoomspeed="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" simulatemass="1" contextfullscreen="1" lockedmouse="0" dblclickfullscreen="0" lockedkeyboardzoom="0" sensitivity="8" lockedkeyboard="0" lockedwheel="0" contextprojections="0" invertwheel="0" speedwheel="1" invertcontrol="1" hideabout="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" title="" latitude="" customnodeid="" info="" description="" nodeid="master" source="" longitude="" datetime="" tags="" copyright=""/>
+    <userdata comment="" description="" source="" title="" customnodeid="" copyright="" info="" datetime="" tags="" longitude="" author="" latitude="" nodeid="master"/>
   </masternode>
 </tour>
