@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="17873" version="6.1.2">
+<pano2vrconfig version="6.1.2" rev="17873">
   <tour>
     <panorama>
       <input>
@@ -68,10 +68,9 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>32</width>
-          <height>32</height>
+          <width>0</width>
+          <height>0</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -97,6 +96,27 @@
           <startmutedmobile>0</startmutedmobile>
           <level>1</level>
           <loop>1</loop>
+          <copyfile>1</copyfile>
+        </sound>
+        <sound>
+          <position>
+            <pan>-114.46</pan>
+            <tilt>15.63</tilt>
+          </position>
+          <videorect/>
+          <type>audio</type>
+          <id>Element03</id>
+          <filename>music.mp3</filename>
+          <mode>2</mode>
+          <nodechangekeep>1</nodechangekeep>
+          <locked>0</locked>
+          <pansize>10</pansize>
+          <tiltsize>10</tiltsize>
+          <fieldsize>90</fieldsize>
+          <ambientlevel>0</ambientlevel>
+          <startmutedmobile>0</startmutedmobile>
+          <level>0.23</level>
+          <loop>4</loop>
           <copyfile>1</copyfile>
         </sound>
         <sound>
@@ -200,15 +220,14 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>32</width>
-          <height>32</height>
+          <width>0</width>
+          <height>0</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-299.52</pan>
-            <tilt>1.89</tilt>
+            <pan>-299.6</pan>
+            <tilt>1.92</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -226,10 +245,9 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>32</width>
-          <height>32</height>
+          <width>0</width>
+          <height>0</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -318,7 +336,7 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-1.16</pan>
+            <pan>-0.92</pan>
             <tilt>1.28</tilt>
             <fov>10</fov>
           </position>
@@ -337,15 +355,14 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>32</width>
-          <height>32</height>
+          <width>0</width>
+          <height>0</height>
         </hotspot>
         <hotspot>
           <position>
             <pan>-121.1</pan>
-            <tilt>0.01</tilt>
+            <tilt>0.00999995</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -363,10 +380,9 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>32</width>
-          <height>32</height>
+          <width>0</width>
+          <height>0</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -505,10 +521,9 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>32</width>
-          <height>32</height>
+          <width>0</width>
+          <height>0</height>
         </hotspot>
         <hotspot>
           <position>
@@ -531,10 +546,9 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>32</width>
-          <height>32</height>
+          <width>0</width>
+          <height>0</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -619,10 +633,9 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
-          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>32</width>
-          <height>32</height>
+          <width>0</width>
+          <height>0</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -683,7 +696,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>index.htm</filename>
+          <filename>../index.htm</filename>
           <values>
             <value id="css"/>
             <value id="gginfo">false</value>
@@ -707,7 +720,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>1664</tilesize>
-        <filename>pano.xml</filename>
+        <filename>../pano.xml</filename>
         <skinfile>silhouette_v6.ggsk</skinfile>
         <quality>100</quality>
         <skinconfiguration>
