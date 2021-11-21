@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.2" rev="17873">
+<pano2vrconfig rev="17873" version="6.1.2">
   <tour>
     <panorama>
       <input>
@@ -79,8 +79,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-60.69</pan>
-            <tilt>11.61</tilt>
+            <pan>-86.8</pan>
+            <tilt>16.49</tilt>
           </position>
           <videorect/>
           <type>audio</type>
@@ -100,8 +100,8 @@
         </sound>
         <sound>
           <position>
-            <pan>-114.46</pan>
-            <tilt>15.63</tilt>
+            <pan>-87.49</pan>
+            <tilt>42.87</tilt>
           </position>
           <videorect/>
           <type>audio</type>
