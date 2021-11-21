@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.2" rev="17873">
+<pano2vrconfig rev="17873" version="6.1.2">
   <tour>
     <panorama>
       <input>
@@ -68,9 +68,10 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
+          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
+          <width>32</width>
+          <height>32</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -199,14 +200,15 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
+          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
+          <width>32</width>
+          <height>32</height>
         </hotspot>
         <hotspot>
           <position>
-            <pan>-299.6</pan>
-            <tilt>1.92</tilt>
+            <pan>-299.52</pan>
+            <tilt>1.89</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -224,9 +226,10 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
+          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
+          <width>32</width>
+          <height>32</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -315,7 +318,7 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-0.92</pan>
+            <pan>-1.16</pan>
             <tilt>1.28</tilt>
             <fov>10</fov>
           </position>
@@ -334,9 +337,36 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
+          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
+          <width>32</width>
+          <height>32</height>
+        </hotspot>
+        <hotspot>
+          <position>
+            <pan>-121.1</pan>
+            <tilt>0.01</tilt>
+            <fov>10</fov>
+          </position>
+          <next>
+            <pan>0</pan>
+            <tilt>0</tilt>
+            <fov>0</fov>
+          </next>
+          <polygon/>
+          <type>point</type>
+          <id>Point01</id>
+          <title>К памятнику Декабристам</title>
+          <linktype>node</linktype>
+          <linksubtype>unknown</linksubtype>
+          <url>{node9}</url>
+          <distance>0</distance>
+          <distanceauto>1</distanceauto>
+          <autoplace>0</autoplace>
+          <customimage>ht_transition.png</customimage>
+          <use3d>0</use3d>
+          <width>32</width>
+          <height>32</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -475,9 +505,10 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
+          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
+          <width>32</width>
+          <height>32</height>
         </hotspot>
         <hotspot>
           <position>
@@ -500,9 +531,10 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
+          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
+          <width>32</width>
+          <height>32</height>
         </hotspot>
       </hotspots>
       <output/>
@@ -587,9 +619,10 @@
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
+          <customimage>ht_transition.png</customimage>
           <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
+          <width>32</width>
+          <height>32</height>
         </hotspot>
       </hotspots>
       <output/>
