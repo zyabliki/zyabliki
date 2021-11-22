@@ -49,8 +49,8 @@
       <hotspots>
         <hotspot>
           <position>
-            <pan>-243.89</pan>
-            <tilt>1.59</tilt>
+            <pan>-243.02</pan>
+            <tilt>2.58</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -61,7 +61,7 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
-          <title>К памятнику Декабристам</title>
+          <title>К памятнику политкаторжанам</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node9}</url>
@@ -100,8 +100,8 @@
         </sound>
         <sound>
           <position>
-            <pan>-87.49</pan>
-            <tilt>42.87</tilt>
+            <pan>-86.82</pan>
+            <tilt>26.43</tilt>
           </position>
           <videorect/>
           <type>audio</type>
@@ -115,7 +115,7 @@
           <fieldsize>90</fieldsize>
           <ambientlevel>0</ambientlevel>
           <startmutedmobile>0</startmutedmobile>
-          <level>0.23</level>
+          <level>0.15</level>
           <loop>4</loop>
           <copyfile>1</copyfile>
         </sound>
@@ -362,7 +362,7 @@
         <hotspot>
           <position>
             <pan>-121.1</pan>
-            <tilt>0.00999995</tilt>
+            <tilt>0.01</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -373,7 +373,7 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
-          <title>К памятнику Декабристам</title>
+          <title>К памятнику политкаторжанам</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node9}</url>
@@ -391,8 +391,8 @@
       <sounds>
         <sound>
           <position>
-            <pan>-29.67</pan>
-            <tilt>3.96</tilt>
+            <pan>-56.33</pan>
+            <tilt>5.7</tilt>
           </position>
           <videorect>
             <rotx>2</rotx>
@@ -400,8 +400,8 @@
             <rotz>-1</rotz>
             <fov>34.37</fov>
             <stretch>100</stretch>
-            <dimx>1536</dimx>
-            <dimy>960</dimy>
+            <dimx>1980</dimx>
+            <dimy>1080</dimy>
           </videorect>
           <type>video</type>
           <id>Element01</id>
@@ -413,11 +413,11 @@
           <tiltsize>10</tiltsize>
           <fieldsize>90</fieldsize>
           <ambientlevel>0</ambientlevel>
-          <startmutedmobile>1</startmutedmobile>
-          <level>1</level>
+          <startmutedmobile>0</startmutedmobile>
+          <level>0</level>
           <loop>-1</loop>
           <copyfile>1</copyfile>
-          <clickmode>playstop</clickmode>
+          <clickmode>popout</clickmode>
           <handcursor>1</handcursor>
         </sound>
         <sound>
@@ -539,7 +539,7 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
-          <title>К памятнику Воину-Интернационалисту</title>
+          <title>К памятнику "Воину-Интернационалисту"</title>
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node8}</url>
@@ -696,7 +696,7 @@
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>../index.htm</filename>
+          <filename>index.htm</filename>
           <values>
             <value id="css"/>
             <value id="gginfo">false</value>
@@ -720,7 +720,7 @@
         <hotspotstyle/>
         <webvr/>
         <tilesize>1664</tilesize>
-        <filename>../pano.xml</filename>
+        <filename>pano.xml</filename>
         <skinfile>silhouette_v6.ggsk</skinfile>
         <quality>100</quality>
         <skinconfiguration>
